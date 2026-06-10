@@ -49,7 +49,7 @@ CRYPTOS = {
     "dogecoin":    "Dogecoin (DOGE)",
 }
 
-CONTROLLA_OGNI_MINUTI = 15   # frequenza controllo mercati
+CONTROLLA_OGNI_MINUTI = 1   # frequenza controllo mercati
 REPORT_ORA            = 9    # ora del report giornaliero (formato 24h)
 FILE_STATO            = "stato_bot.json"
 
