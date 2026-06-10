@@ -34,7 +34,7 @@ def adesso_italia():
 # ================================================================
 # ⚙️  CONFIGURAZIONE — MODIFICA QUESTI VALORI PRIMA DI AVVIARE
 # ================================================================
-TELEGRAM_BOT_TOKEN = "8902440129:AAEhVmHw1964uebB1WKqhTwbvBrs1Yx79eo""
+TELEGRAM_BOT_TOKEN = "8902440129:AAEhVmHw1964uebB1WKqhTwbvBrs1Yx79eo"
 TELEGRAM_CHAT_ID   = "5308622892"
 
 # Crypto da monitorare — id CoinGecko → nome visualizzato
